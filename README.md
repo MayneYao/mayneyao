@@ -1,4 +1,6 @@
-### Hi there 👋
+![Mayne's github stats](https://github-readme-stats.vercel.app/api?username=mayneyao&show_icons=true) 
+
+![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mayneyao&layout=compact)
 
 <!--
 **mayneyao/mayneyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
